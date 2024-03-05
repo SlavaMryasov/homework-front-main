@@ -1,1 +1,2 @@
-# Homeworks
+# homeworks
+repository for homeworks
